@@ -1,0 +1,4 @@
+cloudshell-networking>=5.0,<5.1
+-e git+https://github.com/QualiSystems/cloudshell-networking-devices.git@feature/apiddubny_bug_154034_general_messages_needs_to_be_revised#egg=cloudshell-networking-devices
+-e git+https://github.com/QualiSystems/cloudshell-shell-core.git@feature/apiddubny_bug_154034_general_messages_needs_to_be_revised#egg=cloudshell-shell-core
+-e git+https://github.com/QualiSystems/cloudshell-snmp.git@feature/apiddubny_bug_154034_general_messages_needs_to_be_revised#egg=cloudshell-snmp
